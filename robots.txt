@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://via-decide.github.io/resources-veql9a/sitemap.xml
